@@ -1,0 +1,103 @@
+- generic [ref=e168]:
+  - banner [ref=e169]:
+    - generic [ref=e170]:
+      - generic: Ecom
+      - generic [ref=e174]:
+        - link " dummywebsite@rahulshettyacademy.com" [ref=e176] [cursor=pointer]:
+          - /url: emailto:dummywebsite@rahulshettyacademy.com
+          - generic [ref=e177]: 
+          - text: dummywebsite@rahulshettyacademy.com
+        - generic [ref=e178]:
+          - link "" [ref=e179] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=e181] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=e183] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=e185] [cursor=pointer]:
+            - /url: "#"
+  - generic [ref=e187]:
+    - generic [ref=e188]:
+      - heading "We Make Your Shopping Simple" [level=3]
+      - heading [level=1] [ref=e189]:
+        - text: Practice Website for
+        - emphasis [ref=e190]: Rahul Shetty Academy
+        - text: Students
+      - link "Register" [ref=e191] [cursor=pointer]:
+        - /url: "#/auth/register"
+    - generic [ref=e194]:
+      - heading "Register" [level=1] [ref=e195]
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e199]:
+            - generic [ref=e200]: First Name
+            - textbox "First Name" [ref=e201]
+          - generic [ref=e203]:
+            - generic [ref=e204]: Last Name
+            - textbox "Last Name" [ref=e205]
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - generic [ref=e208]: Email
+            - textbox "email@example.com" [ref=e209]
+          - generic [ref=e210]:
+            - generic [ref=e211]: Phone Number
+            - textbox "enter your number" [ref=e212]
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - generic [ref=e215]: Occupation
+            - combobox [ref=e216]:
+              - option "Choose your occupation" [disabled] [selected]
+              - option "Doctor"
+              - option "Student"
+              - option "Engineer"
+              - option "Scientist"
+          - generic [ref=e217]:
+            - generic [ref=e218]: Gender
+            - generic [ref=e219]:
+              - radio "Male" [ref=e220]
+              - text: Male
+            - generic [ref=e221]:
+              - radio "Female" [ref=e222]
+              - text: Female
+        - generic [ref=e223]:
+          - generic [ref=e224]:
+            - generic [ref=e225]: Password
+            - textbox "Passsword" [ref=e226]
+          - generic [ref=e227]:
+            - generic [ref=e228]: Confirm Password
+            - textbox "Confirm Password" [ref=e229]:
+              - /placeholder: Confirm Passsword
+        - generic [ref=e230]:
+          - checkbox [ref=e232]
+          - generic [ref=e233]: I am 18 year or Older
+        - button "Register" [ref=e234] [cursor=pointer]
+      - paragraph [ref=e235] [cursor=pointer]: Already have an account? Login here
+  - generic [ref=e236]:
+    - heading "Why People Choose Us?" [level=1] [ref=e239]
+    - generic [ref=e240]:
+      - generic [ref=e241]:
+        - generic [ref=e242]: 
+        - generic [ref=e244]:
+          - heading "3546540" [level=1]
+          - paragraph [ref=e245]: Successfull Orders
+      - generic [ref=e246]:
+        - generic [ref=e247]: 
+        - generic [ref=e249]:
+          - heading "37653" [level=1]
+          - paragraph [ref=e250]: Customers
+      - generic [ref=e251]:
+        - generic [ref=e252]: 
+        - generic [ref=e254]:
+          - heading "3243" [level=1]
+          - paragraph [ref=e255]: Sellers
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - generic [ref=e258]: 
+        - generic [ref=e260]:
+          - heading "4500+" [level=1]
+          - paragraph [ref=e261]: Daily Orders
+      - generic [ref=e262]:
+        - generic [ref=e263]: 
+        - generic [ref=e265]:
+          - heading "500+" [level=1]
+          - paragraph [ref=e266]: Daily New Customer Joining

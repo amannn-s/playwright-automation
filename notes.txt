@@ -1,0 +1,7 @@
+Playwright Test Agents
+
+Today we are going to learn Playwright agents. Playwright have three agents:
+
+🎭 planner explores the app and produces a Markdown test plan
+🎭 generator transforms the Markdown plan into the Playwright Test files
+🎭 healer executes the test suite and automatically repairs failing tests
